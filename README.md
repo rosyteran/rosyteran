@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rosyteran
+- 👀 I’m interested in Data Analysis, Machine Learning & Data Science. 
+- 🌱 I’m currently working as a freelance Data Analyst & Data Engineer & Data Scientist. 
+- 💞️ I’m looking to work with Data Analysis & Data Science projects
+- 📫 you can mail me rosanybteranm@gmail.com
