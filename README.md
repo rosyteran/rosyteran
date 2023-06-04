@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @rosyteran
-- 👀 I’m interested in Data Analysis, Machine Learning & Data Science. 
-- 🌱 I’m currently working as a freelance Data Analyst & Data Engineer & Data Scientist. 
-- 💞️ I’m looking to work with Data Analysis & Data Science projects
-- 📫 you can mail me rosanybteranm@gmail.com
+- 🌞 I am located in Southern California. 
+- 👀 I’m interested in Data Analysis, Data Visualization, Machine Learning & Data Science projects. 
+- 🌱 I currently work as a freelance Data Analyst & Data Engineer & Data Scientist. 
+- 🎯 I am results-driven and detail-oriented Data Analyst/Data Scientist passionate in leveraging data-driven insights to drive business improvement and optimize overall performance. 
+- 🌡️🏥 My background is in Pharmacy and Medicine. 
+- 📫 you can contact me via email: rosanybteranm@gmail.com or schedule an appointment with me via https://calendly.com/rosanybteranm
+- 🌍 I speak English & Spanish (Native Language). 
+- 🎾 During my free time, I love to play Tennis, Soccer, Play Ukelele & Travel. 
